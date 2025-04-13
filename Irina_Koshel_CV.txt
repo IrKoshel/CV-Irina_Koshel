@@ -41,6 +41,7 @@
     <p><strong>Email:</strong> <a href="mailto:irinkoshel@gmail.com">irinkoshel@gmail.com</a></p>
     <p><strong>Telegram:</strong> @Ikoshe</p>
     <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/irin-koshel-7966a6252" target="_blank">linkedin.com/in/irin-koshel-7966a6252</a></p>
+    <p><strong>GitHub:</strong> https://github.com/IrKoshel</p>
     <p><strong>Location:</strong> Minsk, Belarus</p>
   </div>
 
